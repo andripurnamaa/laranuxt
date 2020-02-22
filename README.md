@@ -1,22 +1,11 @@
-# laranuxt
+This is my spare time project that use nuxt js.
 
-> my portfolio for laranuxt
+How to use this :
 
-## Build Setup
+1. git clone http://www.github.com/andripurnama66/laranuxt
+2. npm install
+3. npm run dev
 
-``` bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
+That's All. Enjoy it. Happy coding problem solver. :D
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
